@@ -1,0 +1,3 @@
+rootProject.name = 'rnweb3template'
+
+include ':app'
